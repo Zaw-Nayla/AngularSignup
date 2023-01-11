@@ -1,0 +1,8 @@
+.rcorners {
+    border-radius: 15px;
+    /* border: 1px solid #000000; */
+}
+
+input.ng-invalid.ng-touched {
+    border: 1px solid rgb(255, 91, 91);
+}
